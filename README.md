@@ -6,6 +6,8 @@ Project for the Udacity [VR Developer Nanodegree](https://br.udacity.com/course/
 - Project: Build An Apartment
 - Platform: Android
 
+![mobile-screenshot](https://user-images.githubusercontent.com/13722768/50346895-f2a99780-051a-11e9-99a7-e7c6ff4908ea.jpg)
+
 ### Summary
 It is a virtual apartment that you can do a tour by all apartment areas. 
 
